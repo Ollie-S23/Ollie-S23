@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Ollie-S23/Ollie-S23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oliver, a computer science student focused on Game and Web Developement based in Australia. 
 
-Here are some ideas to get you started:
+I am currently working on my personal site. It wil be done shortly :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to join a Game company and if anyone has any game jams I could be part of lmk, I would love to experience those. 
+
+I know Python, C#, HTML, PHP, JavaScript, CSS. I want to learn c++ 
+
+## Fun facts: 
+
+- I have a pet dog
+- Tea is clearly better then coffee
+- I like Marvel and Playstation
+- ##Hobbies: Kiteboarding, Reading, Video Games
