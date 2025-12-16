@@ -8,7 +8,7 @@ My goal is to join a Game company and if anyone has any game jams I could be par
 
 I know Python, C#, HTML, PHP, JavaScript, CSS. I want to learn c++ 
 
-## Fun facts: 
+ Fun facts: 
 
 - I have a pet dog
 - Tea is clearly better then coffee
