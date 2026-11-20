@@ -2,7 +2,7 @@
 
 I'm Oliver, a computer science student focused on Game and Web Developement based in Australia. 
 
-I am currently working on my personal site. It wil be done shortly :D
+I am currently working on my personal site. It will be done shortly :D https://ollie-s23.github.io/
 
 My goal is to join a Game company and if anyone has any game jams I could be part of lmk, I would love to experience those. 
 
